@@ -1,2 +1,2 @@
-# birthday-card
-Birthday card using html and csx
+# Birthday-Card
+Birthday card using html and css
